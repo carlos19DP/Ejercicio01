@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+        <h1>Ejercicio de Introducción a HTML en OpenBootcamp</h1>
+    </head>
+    <bod>
+        <div>
+            <p>Este es mi primer comentario de dos líneas</p>
+            <p>Aprendiendo a documentar mi código con OpenBootcamp</p>
+        </div>
+        <div>
+        <h3>Videos favoritos:</h3>
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=y9LlnLTH87U">Ya no se que hacer conmigo</a></li>
+            <li><a href="https://www.youtube.com/watch?v=S_roMeig-YQ">Lo manlo de ser bueno</a></li>
+            <li><a href="https://www.youtube.com/watch?v=1pU-hRKsPq4">Asi soy yo</a></li>
+        </ul>
+        </div>
+    </bod>
+</html>
