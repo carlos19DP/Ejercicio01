@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio 02/2 - Tablas en HTML</title>
+    </head>
+    <bod>
+        <table>
+            <tr>
+                <th>Título - </th>
+                <th>Autor - </th>
+                <th>Año de publicación - </th>
+                <th>Enlace a Amazon</th>
+            </tr>
+            <tr>
+                <td>Origen | </td>
+                <td>Dan Brown | </td>
+                <td>03/10/2017 | </td>
+                <td><a href="https://www.amazon.com/-/es/Dan-Brown/dp/0525563717/ref=sr_1_1?keywords=origen+dan+brown+spanish&qid=1671497631&sprefix=origen+dan%2Caps%2C318&sr=8-1">Origen</a> | </td>
+            </tr>
+            <tr>
+                <td>Las ventajas de ser invisible | </td>
+                <td>Stephen Chbosky | </td>
+                <td>01/02/1999 | </td>
+                <td><a href="https://www.amazon.com/-/es/Stephen-Chbosky/dp/9585454408/ref=sr_1_1?keywords=las+ventajas+de+ser+invisible+libro+espa%C3%B1ol&qid=1671498024&sprefix=Las+venta%2Caps%2C289&sr=8-1">Las ventajas de ser invisible</a> | </td>
+            </tr>
+            <tr>
+                <td>Satanás | </td>
+                <td>Mario Mendoza | </td>
+                <td>04/01/2002 | </td>
+                <td><a href="https://www.amazon.com/-/es/Mario-Mendoza-ebook/dp/B008BYQQ8W/ref=sr_1_1?keywords=satanas+mario+mendoza+libro&qid=1671498127&sprefix=Satanas+ma%2Caps%2C175&sr=8-1">Satanás</a> | </td>
+            </tr>
+        </table>
+    </bod>
+</html>
