@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Ejercicio 04 - multimedia</title>
+    </head>
+    <body>
+        <br>
+        <h1>Aprendiendo a usar imágenes</h1>
+        <img src="https://as01.epimg.net/meristation/imagenes/2022/10/21/avances/1666352987_359665_1666359815_noticia_normal.jpg" alt="Logo Dios de la guerra" width="1200" height="675">
+         <br/>
+         <br>
+         <h1>Aprendiendo a utilizar los vídeos</h1>
+         <video width="800" height="400"  controls autoplay muted loop>
+            <source src="wind.mp4" type="video/mp4" />
+         </video>
+         <br/> 
+         <br>
+         <h1>Aprediendo a utilizar los audios</h1>
+         <audio controls autoplay loop>
+            <source src="wind.mp3" type="audio/mp3"/>
+         </audio>
+         <br/> 
+    </body>
+</html>
